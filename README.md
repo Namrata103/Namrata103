@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Namrata
-- 👀 I’m interested in web and Mobile Application development, Blockchain and AI/ML.
-- 🌱 I’m currently learning cross platform App development using flutter and dart.
-- 💞️ I’m looking to collaborate on Mobile application and AI/ML ideas.
+- 👀 I’m interested in backend development.
 
 <!---
 Namrata103/Namrata103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
